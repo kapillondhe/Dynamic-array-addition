@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 # Dynamic-array-addition
 Addition of 1D arrays using dynamic initialization.
 #include<iostream>
@@ -40,3 +48,7 @@ int main()
     getch();
     return 0;
 }
+
+
+
+
